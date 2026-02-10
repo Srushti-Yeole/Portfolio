@@ -13,7 +13,7 @@ export default function About() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-pink-400 to-purple-500 p-1">
                 <img
-                  src="/Photo.jpg.jpg"
+                  src="/photo1.png"
                   alt="Srushti Yeole"
                   className="w-full h-full rounded-full object-cover"
                 />
