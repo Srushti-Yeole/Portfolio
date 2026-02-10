@@ -8,8 +8,8 @@ import Image from "next/image"
 export default function Resume() {
   const [showPdf, setShowPdf] = useState(false)
   const [showImage, setShowImage] = useState(false)
-  const resumePdf = "/Srushti (3).pdf"
-  const resumeImage = "/image.png"
+  const resumePdf = "/Srushti (5).pdf"
+  const resumeImage = "/image1.png"
   
   const handleDownload = () => {
     const link = document.createElement('a')
